@@ -1,0 +1,10 @@
+word
+a
+4
+546798
+?
+*****
+anotherword
+blue
+red
+
